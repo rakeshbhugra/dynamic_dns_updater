@@ -1,6 +1,7 @@
 # dynamic_dns_updater
 
 This is a simple script to update the dynamic DNS for a domain.
+Right now, it only has code for Namecheap Dynamic DNS Updation.
 
 ## Usage
 
